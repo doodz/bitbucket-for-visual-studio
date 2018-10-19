@@ -1,5 +1,7 @@
 # Visual Studio Bitbucket Extension
 
+[![GuardRails badge](https://badges.production.guardrails.io/doodz/bitbucket-for-visual-studio.svg)](https://www.guardrails.io)
+
 Bitbucket Extension is a plugin for Visual Studio integration with Bitbucket Git repositories. Main features:
 
 *  Create - lets user to create a git repository on Bitbucket.org and synchronize it with your local version.
